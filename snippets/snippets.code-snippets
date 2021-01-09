@@ -1,11 +1,27 @@
 {
-    "EasyMedia": {
+    "media": {
         "prefix": "media",
         "body": [
             "@media only screen and (max-width: ${1:maxwidth}) and (min-width: ${2:minwidth}) {",
             "$0",
             "}"
-        ],
-        "description": "This extension helps to write media query in more fastest way"
+        ]
+    },
+    "maxmedia": {
+        "prefix": "maxmedia",
+        "body": [
+            "@media only screen and (max-width: ${1:maxwidth}) {",
+            "$0",
+            "}"
+        ]
+    },
+    "minmedia": {
+        "prefix": "minmedia",
+        "body": [
+            "@media only screen and (min-width: ${1:minwidth}) {",
+            "$0",
+            "}"
+        ]
     }
+
 }

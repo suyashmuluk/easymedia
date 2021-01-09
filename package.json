@@ -6,8 +6,9 @@
     "publisher": "msuyash",
     "repository": {
         "type": "git",
-        "url": "https://github.com/suyashmuluk/"
+        "url": "https://github.com/suyashmuluk/easymedia"
     },
+    "icon": "https://res.cloudinary.com/msuyash/image/upload/v1610189076/easymedia_j5xiy6.jpg",
     "engines": {
         "vscode": "^1.52.0"
     },
