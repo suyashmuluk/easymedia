@@ -2,7 +2,7 @@
     "media": {
         "prefix": "media",
         "body": [
-            "@media only screen and (max-width: ${1:maxwidth}) and (min-width: ${2:minwidth}) {",
+            "@media only screen and (max-width: ${1:maxwidth}px) and (min-width: ${2:minwidth}px) {",
             "$0",
             "}"
         ]
@@ -10,7 +10,7 @@
     "maxmedia": {
         "prefix": "maxmedia",
         "body": [
-            "@media only screen and (max-width: ${1:maxwidth}) {",
+            "@media only screen and (max-width: ${1:maxwidth}px) {",
             "$0",
             "}"
         ]
@@ -18,7 +18,7 @@
     "minmedia": {
         "prefix": "minmedia",
         "body": [
-            "@media only screen and (min-width: ${1:minwidth}) {",
+            "@media only screen and (min-width: ${1:minwidth}px) {",
             "$0",
             "}"
         ]

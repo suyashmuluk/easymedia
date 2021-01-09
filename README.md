@@ -1,7 +1,7 @@
-# **easymedia**
+# **Easy Media**
 
 To all the **Frontend Developers** out there, We have came up with the solution
-called "**easymedia**" to write the media queries in more faster and convinient way than usual. As we all know, Maintaining the responsiveness of website, Sometimes we need the help of media queries. And **easymedia** will surely help you out to achieve the same.
+called "**Easy Media**" to write the media queries in more faster and convinient way than usual. As we all know, Maintaining the responsiveness of website, Sometimes we need the help of media queries. And **Easy Media** will surely help you out to achieve the same.
 
 ## Features
 
@@ -46,8 +46,8 @@ Above key will generate following css code
 
 ---
 
-You can simply [install easymedia](https://marketplace.visualstudio.com/manage/publishers/msuyash/extensions/easymedia/hub?_a=acquisition "easymedia extension") on your machine.
+You can simply [install Easy Media](https://marketplace.visualstudio.com/manage/publishers/msuyash/extensions/easymedia/hub?_a=acquisition "Easy Media extension") on your machine.
 
 Or
 
-Open the extension tab in VS Code and search for **easymedia**.
+Open the extension tab in VS Code and search for **Easy Media**.

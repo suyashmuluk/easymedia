@@ -1,14 +1,17 @@
 {
     "name": "easymedia",
-    "displayName": "easymedia",
-    "description": "This extension helps frontend developer to write the media queries more conviniently",
+    "displayName": "Easy Media",
+    "description": "An extension to write the media queries more conviniently",
     "version": "1.0.3",
     "publisher": "msuyash",
+    "author": {
+        "name": "Suyash Muluk"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/suyashmuluk/easymedia"
     },
-    "icon": "https://res.cloudinary.com/msuyash/image/upload/v1610189076/easymedia_j5xiy6.jpg",
+    "icon": "images/easymedia.jpg",
     "engines": {
         "vscode": "^1.52.0"
     },
