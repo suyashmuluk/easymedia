@@ -2,7 +2,7 @@
     "name": "easymedia",
     "displayName": "easymedia",
     "description": "This extension helps frontend developer to write the media queries more conviniently",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "msuyash",
     "repository": {
         "type": "git",
